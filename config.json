@@ -1,0 +1,7 @@
+{
+  "PREFIX": ";", 
+  "TOKEN": "", 
+  "QUEUE_LIMIT": 0,
+  "COLOR": "BLUE",
+  "inviteURL": "https://discord.com/api/oauth2/authorize?client_id=817057589535571998&permissions=8&scope=bot" 
+}
